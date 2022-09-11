@@ -4,7 +4,7 @@
     "url": "http://tag-gps.net/",
     "icon": "https://favicons.githubusercontent.com/tag-gps.net",
     "slug": "calt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 242,
     "timeMonth": 241,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-11": 0
+    }
   },
   {
     "name": "Wikipedia",
