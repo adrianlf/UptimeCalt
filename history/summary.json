@@ -6,15 +6,15 @@
     "slug": "calt",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.78%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 282,
-    "timeDay": 283,
-    "timeWeek": 250,
-    "timeMonth": 244,
-    "timeYear": 282,
+    "time": 281,
+    "timeDay": 232,
+    "timeWeek": 245,
+    "timeMonth": 245,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2022-09-11": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 154,
-    "timeWeek": 142,
-    "timeMonth": 198,
-    "timeYear": 211,
+    "time": 216,
+    "timeDay": 453,
+    "timeWeek": 176,
+    "timeMonth": 204,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   }
 ]
