@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 286,
-    "timeDay": 310,
-    "timeWeek": 228,
-    "timeMonth": 305,
-    "timeYear": 286,
+    "time": 287,
+    "timeDay": 316,
+    "timeWeek": 234,
+    "timeMonth": 306,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2022-09-11": 18
     }
@@ -26,15 +26,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "94.29%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
-    "time": 217,
-    "timeDay": 300,
-    "timeWeek": 166,
-    "timeMonth": 225,
-    "timeYear": 217,
+    "time": 216,
+    "timeDay": 181,
+    "timeWeek": 178,
+    "timeMonth": 218,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2022-10-22": 82
     }
