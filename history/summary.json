@@ -4,7 +4,7 @@
     "url": "http://tag-gps.net/",
     "icon": "https://icons.duckduckgo.com/ip3/tag-gps.net.ico",
     "slug": "calt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 259,
     "timeYear": 275,
     "dailyMinutesDown": {
+      "2023-01-24": 0,
       "2022-09-11": 18
     }
   },
@@ -32,7 +33,7 @@
     "uptimeYear": "99.98%",
     "time": 227,
     "timeDay": 28,
-    "timeWeek": 135,
+    "timeWeek": 132,
     "timeMonth": 223,
     "timeYear": 227,
     "dailyMinutesDown": {
